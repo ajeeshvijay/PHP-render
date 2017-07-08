@@ -11,3 +11,6 @@ Prints human-readable information about a PHP variable
 	render($testArray);
 ?>
 ```
+
+### Example preview
+![preview image](https://raw.githubusercontent.com/ajeeshvijay/PHP-render/master/preview.jpg)
