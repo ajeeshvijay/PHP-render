@@ -7,7 +7,7 @@ Prints human-readable information about a PHP variable.
 
 ```javascript
 <?php
-	include('./FILE-ROOT/PHP-render.php');
+	include( <FILE-ROOT> 'PHP-render.php');
     
 	$testArray = array('zero', 'one', 'two', 'three');
 	render($testArray);
