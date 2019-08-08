@@ -249,6 +249,9 @@
 				.php_render._collapse .pr_collapse_all{
 					opacity: .8;
 				}
+				.new-style{
+					color:red;
+				}
 			</style>
 			<script>
 				
